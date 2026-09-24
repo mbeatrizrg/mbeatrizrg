@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ## 📈 GitHub Stats
 <!-- IMPORTANT: Replace 'YOUR_USERNAME' with your actual GitHub username below -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mbeatrizrg&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mbeatrizrg&show_icons=true&theme=transparent&hide_border=true&v=1" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=mbeatrizrg&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </p>
 
