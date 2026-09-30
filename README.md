@@ -17,11 +17,7 @@
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
 </p>
 
-## 📈 GitHub Stats
-<!-- IMPORTANT: Replace 'YOUR_USERNAME' with your actual GitHub username below -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mbeatrizrg&theme=transparent&hide_border=true" alt="GitHub Streak" />
-</p>
+
 
 ## 🌐 Connect with me
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mbeatrizg123)
