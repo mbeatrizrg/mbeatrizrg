@@ -20,7 +20,7 @@
 ## 📈 GitHub Stats
 <!-- IMPORTANT: Replace 'YOUR_USERNAME' with your actual GitHub username below -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mbeatrizrg&ring=FF5252&fire=FF5252&currStreakNum=FF5252&sideNums=FF5252&text=FF5252&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=mbeatrizrg&ring=FF5252&fire=FF5252&currStreakNum=FF5252&sideNums=FF5252&text=FF5252&background=0b131f&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ## 🌐 Connect with me
